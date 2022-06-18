@@ -1,0 +1,13 @@
+available: false
+id: 3
+mainset:
+- names: []
+name: 'New Townname #3'
+source: ''
+subsets:
+- name: newset-0
+  parts:
+  - names: []
+- name: newset-1
+  parts:
+  - names: []
